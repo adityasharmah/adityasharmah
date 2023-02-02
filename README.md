@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adityasharmah
-- 👀 I’m interested in BlockChain, Artificial Intelligence and Machine Learning
+- 👀 I’m interested in BlockChain, Artificial Intelligence and Machine Learning.
 - 🌱 I’m currently learning JavaScript and DSA.
 
 <!---
